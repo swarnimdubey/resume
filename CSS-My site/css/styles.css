@@ -1,0 +1,121 @@
+body{
+margin: 0;
+  text-align: center;
+  font-family: verdana, serif;
+  color: #40514E;
+}
+ h1 {
+   margin: 50px auto 0 auto;
+   font-size: 5.62rem;
+   color: skyblue;
+   font-family: 'Sacramento', cursive;
+
+ }
+h2{
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+  color: skyblue;
+  font-weight: bolder;
+  }
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #ccfff2;
+}
+.top-cloud{
+position: absolute;
+right: 400px;
+top: 40px;
+}
+.Swarnim{
+  height: 400px;
+  width: 400px;
+}
+  .skill-1{
+width: 20%;
+float: left;
+margin-right: 30px;
+
+  }
+.skill-2{
+float: right;
+  width: 20%;
+  margin-left: 30px;
+}
+  .bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+  }
+p{
+  line-height: 2;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  }
+
+.middle-container{
+  margin: 100px 0;
+}
+
+hr{
+  border: #EAF6F6 dotted 6px;
+  width: 5%;
+  border-bottom: none;
+  margin: 60px auto;
+
+}
+.ProfileIntro{
+  width: 30%;
+  margin: auto;
+}
+.Contact-message{
+  width: 30%;
+  margin: 40px auto 50px;
+}
+.btn {
+  background: #203e52;
+  background-image: -webkit-linear-gradient(top, #203e52, #6a818f);
+  background-image: -moz-linear-gradient(top, #203e52, #6a818f);
+  background-image: -ms-linear-gradient(top, #203e52, #6a818f);
+  background-image: -o-linear-gradient(top, #203e52, #6a818f);
+  background-image: linear-gradient(to bottom, #203e52, #6a818f);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+a{
+  color: #11999e;
+  margin: 5px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: purple;
+}
+
+.btn:hover {
+  background: #afbec7;
+  background-image: -webkit-linear-gradient(top, #afbec7, #507d9c);
+  background-image: -moz-linear-gradient(top, #afbec7, #507d9c);
+  background-image: -ms-linear-gradient(top, #afbec7, #507d9c);
+  background-image: -o-linear-gradient(top, #afbec7, #507d9c);
+  background-image: linear-gradient(to bottom, #afbec7, #507d9c);
+  text-decoration: none;
+}
+.bottom-container{
+background-color: #66bfbf;
+padding: 50px 0 20px;
+}
+.Copyright{
+  color: #eaf6f6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
